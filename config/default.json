@@ -1,0 +1,13 @@
+{
+    "elasticsearch": {
+      "url": "http://localhost:",
+      "port": "9200",
+      "elasticsearchIndices": {
+        "STUDENTS": {
+          "index": "students",
+          "type": "STUDENTS"
+        }
+      }
+    },
+    "application_serverport": 3500
+}
